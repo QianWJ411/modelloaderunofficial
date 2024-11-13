@@ -1,4 +1,4 @@
-package com.qq.qianwj2.modelloader_unofficial;
+package com.qianwj2.modelloader_unofficial;
 
 import com.mojang.logging.LogUtils;
 import net.minecraft.client.Minecraft;

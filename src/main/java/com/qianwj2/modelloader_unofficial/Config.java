@@ -1,4 +1,4 @@
-package com.qq.qianwj2.modelloader_unofficial;
+package com.qianwj2.modelloader_unofficial;
 
 import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.resources.ResourceLocation;
